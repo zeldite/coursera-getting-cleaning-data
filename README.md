@@ -7,7 +7,8 @@ The goal of the class project was to manipulate readily made Samsung data to cre
 
 
 **Requirements**
-You should create one R script called run_analysis.R that does the following:
+
+You should create one R script called ```run_analysis.R``` that does the following:
 
 
 * Merges the training and the test sets to create one data set.
@@ -27,10 +28,10 @@ You should create one R script called run_analysis.R that does the following:
 3. Put ```UCI HAR Dataset``` folder into the same folder as the ```run_analysis.R```
 4. Execute the R script, ```run_analysis.R```,  in R Studio 
 
-** The output of the R script is a ```tidy.txt```. **
+**The output of the R script is a ```tidy.txt```**
 
 You can read more about the data and the analysis in the ```CodeBook.md``` .
 
 **Notes**
 
-```run_analysis.R``` downloads automatically a few dependent packages: ```reshape2``` and ```data.table```. 
+```run_analysis.R``` downloads automatically a few dependent packages: ```reshape2``` and ```data.table```
